@@ -3,7 +3,7 @@ this is argument reality based game . you should take care of tree and it will b
 <a href="https://devlup-labs.github.io"><img src="https://img.shields.io/badge/Developed%20under-Winter%20of%20Code%2C%20DevlUp%20Labs-blue"/></a>
 
 # ARTree
-<img src='.readme/favicon/android-chrome-512x512.png' height="100px">
+<img src='https://github.com/Rohitdoyal/ARTree/blob/main/circle-cropped%20(8).png?raw=true' height="100px">
 
 ## Project Setup
 1. Download this repository given drive link !
