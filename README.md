@@ -25,4 +25,4 @@ https://drive.google.com/drive/folders/1J_ZC0UA87rV0o0JuhRx7xjmgnNhJMEl2?usp=sha
 ## Mentor 
 |Name - Year|
 
-|[Harsh Anand](https://github.com/harsh-not-haarsh) - Prefinalyear|
+|[Harsh Anand](https://github.com/harsh-not-haarsh) - Google Software Engineer.
