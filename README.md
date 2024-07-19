@@ -16,8 +16,7 @@ this is argument reality based game . you should take care of tree and it will b
 ## Built With
 unity 3d ,c# ,vuforia .
 
-## Game's apk file 
-https://drive.google.com/file/d/1mdPQ0zG0AuMnqYt9s76lEbTJxWX9WDBe/view?usp=sharing
+
 
 ## Project Drive link 
 https://drive.google.com/drive/folders/1J_ZC0UA87rV0o0JuhRx7xjmgnNhJMEl2?usp=sharing
